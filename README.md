@@ -6,7 +6,7 @@ Currently HTTP/2 is not used as it does not appear to be an issue, ...and aiohtt
 
 
 ## Installation
- - `$ pip install git+https://github.com/floxay/python-riot-auth.git`
+ - `$ pip install git+https://github.com/hsbmapa/python-riot-auth.git`
 
 ## Examples
  - Example(s) can be found in the examples folder.
